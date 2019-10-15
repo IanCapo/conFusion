@@ -20,7 +20,7 @@ body {
 }
 
 .footer {
-  background: rgb(29, 206, 115);
+  background: #D1C4E9;
   margin: 0px auto;
   padding: 20px 0px;
 }
@@ -28,8 +28,8 @@ body {
 .jumbotron {
   padding: 70px 30px;
   margin: 0 auto;
-  background: rgb(28, 227, 124);
-  color: lightcyan;
+  background: #9575CD;
+  color: white;
 }
 
 .address {
@@ -44,7 +44,7 @@ a:hover {
 }
 
 .navbar-dark {
-  background: rgb(7, 99, 52);
+  background: #512DA8;
 }
 
 .tab-content {
@@ -55,7 +55,7 @@ a:hover {
 }
 
 .carousel {
-  background: rgb(7, 99, 52);
+  background: #512DA8;
 }
 
 .carousel-item {
@@ -67,10 +67,4 @@ a:hover {
   top: 0;
   left: 0;
   min-height: 300px;
-}
-
-.btn-group>.btn-group .btn.active,
- .btn-group>.btn .active {
-  background: #28a745;
-  border: #28a745;
 }
